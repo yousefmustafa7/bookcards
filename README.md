@@ -1,1 +1,1 @@
-This web application enables users to save and organize book cards while storing additional details about each book. It is developed with PHP for backend functionality and utilizes JSON files as its database.
+This web app helps users keep track of their book collection by storing and managing book cards with extra details. It runs on a PHP backend and relies on JSON files for data storage.
